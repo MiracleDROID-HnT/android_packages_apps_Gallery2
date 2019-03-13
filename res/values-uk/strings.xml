@@ -133,7 +133,7 @@
     <string name="file_size" msgid="8486169301588318915">"Розмір файлу"</string>
     <string name="maker" msgid="7921835498034236197">"Автор"</string>
     <string name="model" msgid="8240207064064337366">"Модель"</string>
-    <string name="flash" msgid="2816779031261147723">"Flash"</string>
+    <string name="flash" msgid="2816779031261147723">"Спалах"</string>
     <string name="aperture" msgid="5920657630303915195">"Апертура"</string>
     <string name="focal_length" msgid="1291383769749877010">"Фокусна відст."</string>
     <string name="white_balance" msgid="1582509289994216078">"Баланс білого"</string>
